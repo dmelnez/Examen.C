@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\bin\Debug\net7.0\PruebaRepasoListas.exe
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\bin\Debug\net7.0\PruebaRepasoListas.deps.json
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\bin\Debug\net7.0\PruebaRepasoListas.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\bin\Debug\net7.0\PruebaRepasoListas.dll
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\bin\Debug\net7.0\PruebaRepasoListas.pdb
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.dll
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\refint\PruebaRepasoListas.dll
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.pdb
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\PruebaRepasoListas.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\PruebaRepasoListas\PruebaRepasoListas\obj\Debug\net7.0\ref\PruebaRepasoListas.dll
